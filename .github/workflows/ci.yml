@@ -8,4 +8,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Run simple check
-      run: echo "CI pipeline is running"
+        run: echo "CI pipeline is running"
